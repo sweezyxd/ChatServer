@@ -4,6 +4,7 @@ An easy to use python scripts providing you the ability to chat with others thro
 First, You'll need to install tkinter, that can be done with the command below:
 
 ``` pip install tk ```
+
 After that you'll be able to run the scripts.
 
 for windows:
