@@ -3,7 +3,7 @@
 
 An easy to use python scripts providing you the ability to chat with others through a socket server, the server has no limit users and comes with some simple commands.
 
-# Overview
+# Screenshots
 ![Capture](https://user-images.githubusercontent.com/98488748/217870863-716e370f-2164-42b5-b6b3-8c3aae4b36ef.PNG)
 
 # Usage
