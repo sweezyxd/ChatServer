@@ -69,11 +69,6 @@ class Client:
                     win.destroy()
                     quit()
                     break
-                if ''.join(self.datasend.splitlines()) == "/love":
-                    self.on = False
-                    win.destroy()
-                    quit()
-                    break
         sys.exit()
 
     def Receive(self):
